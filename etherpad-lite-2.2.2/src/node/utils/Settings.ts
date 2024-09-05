@@ -163,7 +163,7 @@ exports.socketIo = {
   The default value is sso
   If you want to use the old authentication system, change this to apikey
  */
-exports.authenticationMethod = 'sso'
+exports.authenticationMethod = 'apikey';
 
 
 /*

@@ -1,0 +1,1 @@
+your_generated_api_key -H APIKEY: your_api_key_here https://your-etherpad-instance.com/api/1.2.14/createPad
